@@ -1,0 +1,4 @@
+REMOVE e
+REMOVE u
+REMOVE h
+REMOVE s
